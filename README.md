@@ -1,14 +1,51 @@
-Participa do grupo "GRUPO2" com
+# SGAA - Sistema de Gestão de Animais e Adoções
 
-LUCIMARA DA SILVA - 10482417799 /
-MARIA EDUARDA SOUZA FERNANDES - 10482428569 /
-ENZZO CHAVES SCALISE - 10482428550
+## 1. Descrição do Grupo
+**Curso:** CST em Análise e Desenvolvimento de Sistemas - Unoeste (FIPP)
+**Disciplina:** Programação de Internet e Dispositivos Móveis (PIDW) / Projeto Integrador
+**Identificação:** GRUPO 2
 
+## 2. Integrantes
+Membros responsáveis pelo desenvolvimento e documentação do projeto:
 
-DRESCRIÇÃO -
-O projeto consiste no desenvolvimento do Sistema de Gestão de Animais e Adoções (SGAA), uma aplicação web responsiva criada para atender às necessidades da Associação Abrigo de Animais de Teodoro Sampaio . A iniciativa, realizada por estudantes do curso de Análise e Desenvolvimento de Sistemas da Unoeste, tem como propósito central substituir os atuais registros manuais da ONG por uma base de dados digital unificada, garantindo maior segurança, organização e agilidade na consulta de informações .
+* **Enzzo Chaves Scalise** - RA: 10482428550
+* **Lucimara da Silva** - RA: 10482417799
+* **Maria Eduarda Souza Fernandes** - RA: 10482428569
 
-Em termos de funcionalidades, o software foi desenhado para gerenciar todo o ciclo de vida dos animais na instituição, desde o momento do resgate até a efetivação da adoção . O escopo abrange o cadastro detalhado das características dos animais, o histórico completo de vacinas e tratamentos veterinários, e a gestão dos dados de adotantes, incluindo a geração automática de termos de responsabilidade . O sistema também conta com recursos de automação, emitindo alertas para eventos críticos como reforços de vacinação e agendamento de castrações, além de prever um módulo opcional para controle financeiro básico de receitas e despesas da instituição .
+## 3. Descrição do Projeto
+O **SGAA (Sistema de Gestão de Animais e Adoções)** é uma aplicação web desenvolvida para informatizar os processos da **Associação Abrigo de Animais de Teodoro Sampaio**.
 
-Do ponto de vista técnico, a solução adota uma arquitetura baseada em JavaScript, utilizando o framework Node.js para o backend, React para a interface de usuário (frontend) e MongoDB como banco de dados, o que confere flexibilidade e escalabilidade ao projeto . No documento, sua participação específica ficou registrada na elaboração do caso de uso "Gerenciar Castração", onde você definiu as regras para o agendamento e atualização de status dos procedimentos cirúrgicos dos animais .
+O sistema visa substituir registros manuais por uma base digital centralizada, abrangendo:
+* **Gestão de Animais:** Cadastro e histórico.
+* **Saúde:** Controle de vacinas e castrações.
+* **Adoções:** Vínculo de tutores e geração de termos de responsabilidade.
+* **Administração:** Controle de resgates e relatórios gerenciais.
 
+**Tecnologias Utilizadas:**
+* Frontend: React
+* Backend: Node.js
+* Banco de Dados: MongoDB
+
+## 4. Organização do Repositório
+O repositório está estruturado com a documentação oficial e as entregas individuais de código de cada integrante:
+
+* **📂 ERS FINAL**
+  * Contém a documentação técnica completa (`ERS_Projeto_final.pdf`) e documentos assinados.
+
+* **📂 ENZZO CHAVES SCALISE - 10482428550**
+  * `Codigo_Gerenciar_Adotantes`: Código fonte (Backend/Frontend) do módulo.
+  * `Vídeo de apresentação.txt`: Link para o vídeo demonstrativo.
+  * `Aluno.txt`: Identificação do aluno.
+
+* **📂 LUCIMARA DA SILVA - 10482417799**
+  * `abrigo-vacinas`: Código fonte (Backend/Frontend) do módulo.
+  * `Vídeo de apresentação.txt`: Link para o vídeo demonstrativo.
+  * `Aluno.txt`: Identificação do aluno.
+
+* **📂 MARIA EDUARDA SOUZA FERNANDES - 10482428569**
+  * `gerenciador-abrigo`: Código fonte (Backend/Frontend) do módulo.
+  * `Vídeo de apresentação.txt`: Link para o vídeo demonstrativo.
+  * `Aluno.txt`: Identificação do aluno.
+
+---
+*Projeto acadêmico - Unoeste 2025.*
